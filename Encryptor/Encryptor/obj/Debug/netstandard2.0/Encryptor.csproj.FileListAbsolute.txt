@@ -1,0 +1,15 @@
+D:\Desktop\Encryptor\Encryptor\Encryptor\bin\Debug\netstandard2.0\Encryptor.deps.json
+D:\Desktop\Encryptor\Encryptor\Encryptor\bin\Debug\netstandard2.0\Encryptor.dll
+D:\Desktop\Encryptor\Encryptor\Encryptor\bin\Debug\netstandard2.0\ref\Encryptor.dll
+D:\Desktop\Encryptor\Encryptor\Encryptor\bin\Debug\netstandard2.0\Encryptor.pdb
+D:\Desktop\Encryptor\Encryptor\Encryptor\obj\Debug\netstandard2.0\Encryptor.csprojAssemblyReference.cache
+D:\Desktop\Encryptor\Encryptor\Encryptor\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Desktop\Encryptor\Encryptor\Encryptor\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Desktop\Encryptor\Encryptor\Encryptor\obj\Debug\netstandard2.0\Encryptor.AssemblyInfoInputs.cache
+D:\Desktop\Encryptor\Encryptor\Encryptor\obj\Debug\netstandard2.0\Encryptor.AssemblyInfo.cs
+D:\Desktop\Encryptor\Encryptor\Encryptor\obj\Debug\netstandard2.0\Encryptor.csproj.CoreCompileInputs.cache
+D:\Desktop\Encryptor\Encryptor\Encryptor\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Desktop\Encryptor\Encryptor\Encryptor\obj\Debug\netstandard2.0\Encryptor.dll
+D:\Desktop\Encryptor\Encryptor\Encryptor\obj\Debug\netstandard2.0\ref\Encryptor.dll
+D:\Desktop\Encryptor\Encryptor\Encryptor\obj\Debug\netstandard2.0\Encryptor.pdb
+D:\Desktop\Encryptor\Encryptor\Encryptor\obj\Debug\netstandard2.0\Encryptor.csproj.Fody.CopyLocal.cache

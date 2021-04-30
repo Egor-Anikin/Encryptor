@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Encryptor.MainPage" >
+
+    <StackLayout>
+        <Label Text = "{Binding LabelBegin}" FontSize="Large" />
+        <Editor Placeholder="Ведите текст" Text="{Binding EditorText}" HeightRequest="160" IsSpellCheckEnabled="false" FontSize="Large" />
+        <Entry Placeholder="Ведите ключ" Text="{Binding KeyEntry}"/>
+        <Label Text="Для проверки можно открыть тестовый файл который расшифровывается ключом по умолчанию."/>
+
+        <StackLayout Orientation="Horizontal" Padding="50,0,0,0">
+            <Button Text = "Зашифровать" BorderWidth="1" BackgroundColor="Red" HorizontalOptions="Center" VerticalOptions="Center" Command ="{Binding OnButtonClicked}" />
+            <Button Text = "Расшифровать" BorderWidth="1" BackgroundColor="GreenYellow" HorizontalOptions="Center" VerticalOptions="Center" Command ="{Binding OnButtonClicked2}" />
+        </StackLayout>
+
+        <Label Text = "{Binding LabelTitel}" FontSize="Large" />
+        <Editor Text = "{Binding LabelText}" IsReadOnly="true" FontSize="Large" HeightRequest="160"/>
+
+        <Entry Placeholder="Ведите имя файла" Text="{Binding FileNameEntry}"  />
+        <StackLayout Orientation="Horizontal" Padding="40,0,0,0">
+            <Button Text = "Открыть" BorderWidth="1" Command ="{Binding OnButtonClickedOpen}" />
+            <Button Text = "Сохранить" BorderWidth="1" Command ="{Binding OnButtonClickedSeve}" />
+            <Button Text = "Удалить" BorderWidth="1" Command ="{Binding OnButtonClickedDel}" />
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>
